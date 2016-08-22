@@ -57,7 +57,7 @@ BuyPoisonsItemInfo[20]["Vial_Type"]=BUYPOISONS_VIAL_EMPTY;
 
 
 --CP2
-BuyPoisonsItemInfo[7]["texture"] = "Interface\\Icons\\INV_Potion_19";
+BuyPoisonsItemInfo[7]["texture"] = "Interface\\Icons\\Ability_PoisonSting";
 BuyPoisonsItemInfo[7]["Components"][1]["Item"]= BUYPOISONS_COMPONENT_ESSENCE_OF_AGONY;
 BuyPoisonsItemInfo[7]["Components"][1]["Quantity"]= 3;
 BuyPoisonsItemInfo[7]["Vial_Type"]=BUYPOISONS_VIAL_CRYSTAL;
